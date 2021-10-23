@@ -1,4 +1,4 @@
-##Hi, I'm Kim Zuniga! :wave:
+<h2>Hi, I'm Kim Zuniga! :wave:</h2>
 
 <p>Currently studying <b>Computer Programming and Analysis</b> at St. Lawrence College</p>
 
@@ -7,8 +7,10 @@
 const kim = {
     pronouns: "he / him",
     code: [Javascript, C++, C#, PHP, HTML, CSS, MySQL, MongoDB],
-    skills: [UI/UX Designs, Pseudocode, Quality Assurance,
-            Github, Linux OS, Bootstrap]
+    skills: [
+            UI/UX Designs, Pseudocode, Quality Assurance,
+            Github, Linux OS, Bootstrap
+            ]
 }
 ```
 
