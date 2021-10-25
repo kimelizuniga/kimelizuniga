@@ -15,11 +15,11 @@ const kim = {
 ```
 
 <h3>Connect with me:</h3>
-<a href="https://www.linkedin.com/in/kim-zuniga/" target="_blank">
+<a href="https://www.linkedin.com/in/kim-zuniga/">
     <img alt="kimzuniga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 &nbsp;
-<a href="https://kimzuniga.ca" target="_blank">
+<a href="https://kimzuniga.ca">
     <img alt="kimzuniga.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />
 </a>
 
