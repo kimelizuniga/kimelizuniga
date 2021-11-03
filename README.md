@@ -1,4 +1,4 @@
-<img align="center" width="120%" src="Animation.gif">
+<img align="center" width="100%" src="Animation.gif">
 
 ```javascript
 const kim = {
