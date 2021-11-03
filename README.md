@@ -1,7 +1,4 @@
-<h2>Hi, I'm Kim Zuniga! :wave:</h2>
-
-<p>Currently studying <strong>Computer Programming and Analysis</strong> at St. Lawrence College</p>
-<p>Always looking to improve myself through <em>education, self-learning, collaborations, and group/personal projects</em><p>
+<img align="center" width="70%" src="Animation.gif">
 
 ```javascript
 const kim = {
